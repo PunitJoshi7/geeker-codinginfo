@@ -1,0 +1,47 @@
+<html>
+
+<head>
+    <title> FORMS ELEMENTS</title>
+
+<body>
+    <style type="text/css"></style>
+
+    <form action="">
+        <a href="/css/html5b.html"><INPUT type="SUBMIT" value="Back"></a>
+            <a href="/css/html project.html"> <input type="submit" value="PROGRAMES"  style="margin: right 30px;"></a><br
+         Student NAME:<input type=" text" name="" id=""><br><br><br><br> Mothers NAME:<input type=" text" name="" id="">
+         
+      <br> <br> Parents name  NAME:<input type=" text" name="" id="">
+       <br>
+       <br><br> Mothers NAME:<input type=" text" name="" id="">
+
+        <br>
+        <br>
+        <br> Password:<input type="password" name="" id="">
+        <div></div>
+        <div></div>
+        <br><br>email id:<input type=" email" name="" id="" >
+        <div>
+
+        </div>
+        <div>
+
+        </div>
+        <br><input type="submit" value="login">
+        <DIV></DIV>
+        PASSED <input type="checkbox" value="">
+        <DIV></DIV>
+        FAILED <input type="checkbox" value="">
+        <br>
+        <br>
+
+        <br><input type="submit" value="create ur account">
+        <div></div>
+        <br> <input type="submit" value="click">
+
+    </form>
+</body>
+
+</head>
+
+</html>

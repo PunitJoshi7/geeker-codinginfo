@@ -1,0 +1,21 @@
+<html>
+<head>
+    <style>
+        div{
+            border-style:double;
+            border-color: black;
+            text-align: center;
+            font-size: 20px;
+            margin-right: 8px;
+            float: left;
+display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <img src="./images/sundar.jpg"  width="290px">
+        <h2>PUNIT JOSHI </h2>
+    </div>
+</body>
+</html>
